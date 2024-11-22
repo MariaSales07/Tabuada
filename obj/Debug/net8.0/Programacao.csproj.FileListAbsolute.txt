@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.AssemblyInfo.cs
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programacao\bin\Debug\net8.0\Programacao.exe
+C:\Users\user\Documents\Programacao\bin\Debug\net8.0\Programacao.deps.json
+C:\Users\user\Documents\Programacao\bin\Debug\net8.0\Programacao.runtimeconfig.json
+C:\Users\user\Documents\Programacao\bin\Debug\net8.0\Programacao.dll
+C:\Users\user\Documents\Programacao\bin\Debug\net8.0\Programacao.pdb
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.dll
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\refint\Programacao.dll
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.pdb
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\Programacao.genruntimeconfig.cache
+C:\Users\user\Documents\Programacao\obj\Debug\net8.0\ref\Programacao.dll
